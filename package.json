@@ -1,0 +1,21 @@
+{
+    "name": "into-the-blue",
+    "displayName": "Into the Blue",
+    "description": "A cool blue theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Into the Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Into the Blue-color-theme.json"
+            }
+        ]
+    }
+}
