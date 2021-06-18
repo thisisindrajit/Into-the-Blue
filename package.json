@@ -1,10 +1,20 @@
 {
     "name": "into-the-blue",
     "displayName": "Into the Blue",
-    "description": "A cool blue theme.",
-    "version": "0.0.1",
+    "description": "A cool blue VS code theme.",
+    "version": "1.1.0",
+    "publisher":"Indrajit",
     "engines": {
         "vscode": "^1.57.0"
+    },
+    "icon": "icons/icon.png",
+    "author":{
+        "name":"Indrajit",
+        "url":"https://thisisindrajit.github.io/portfolio/"
+    },
+    "repository":{
+        "url":"https://github.com/thisisindrajit/Into-the-Blue.git",
+        "type":"git"
     },
     "categories": [
         "Themes"
