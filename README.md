@@ -2,6 +2,8 @@
 
 A cool blue VS code theme, for the love of blue💙. Created by Indrajit.
 
+> :warning: In case of compatibility errors, make sure to update VS code to the latest version.
+
 ## Screenshot
 
 ![Screenshot (72)](https://user-images.githubusercontent.com/43838718/122573165-1e665380-d06c-11eb-8a3d-41342b604315.png)
